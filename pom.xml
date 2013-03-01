@@ -11,8 +11,8 @@
         <module>vaadin-cdi</module>
     </modules>
     <scm>
-        <connection>scm:https:https://github.com/vaadin/vaadin-cdi-integration</connection>
-         <developerConnection>scm:https:https://github.com/vaadin/vaadin-cdi-integration</developerConnection>
-         <url>scm:https:https://github.com/vaadin/vaadin-cdi-integration</url>
+        <connection>scm:git:https://github.com/vaadin/vaadin-cdi-integration</connection>
+         <developerConnection>scm:git:https://github.com/vaadin/vaadin-cdi-integration</developerConnection>
+         <url>https://github.com/vaadin/vaadin-cdi-integration</url>
 </scm>
 </project>
